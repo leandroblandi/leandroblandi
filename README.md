@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @leandroblandi
-- 👀 I’m interested in web programming
-- 🌱 I’m currently learning Javascript and React
-
+- 📚 Software Development Student At UNLa
+- 👀 I’m interested in Web Development
 
 <!---
 leandroblandi/leandroblandi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
