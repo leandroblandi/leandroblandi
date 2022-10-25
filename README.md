@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @leandroblandi
+# 👋 ¡Hi, I'm Leandro Blandi!
+***
+
 - 📚 Software Development Student At UNLa
 - 👀 I’m interested in Web Development
 
