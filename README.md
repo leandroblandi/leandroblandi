@@ -1,9 +1,9 @@
 # 👋 ¡Hi, I'm Leandro Blandi!
 
 - 📚 Software Development Student At UNLa
-- 👀 I’m interested in Web Development
-- 🤖 I have a lot of skills:
-  - HTML5
+- 👀 I’m interested in *Web Development*
+- 🤖 I have a lot of **skills**:
+  - HTML5 
   - CSS3
   - Javascript
   - C
