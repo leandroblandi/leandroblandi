@@ -9,14 +9,14 @@
   - C
   - PHP
 
-***
 ## My websites
 
-- My Personal website (Portfolio)
-  - https://leandroblandi.netlify.app/
+- **My Personal website (Portfolio)**
+  - *https://leandroblandi.netlify.app/*
 
-- Impue-Steam (A Steam Tax Calculator)
-  - https://impue-steam.netlify.app/
+- **Impue-Steam (A Steam Tax Calculator)**
+  - *https://impue-steam.netlify.app/*
+  
 <!---
 leandroblandi/leandroblandi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
