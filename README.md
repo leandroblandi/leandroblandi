@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=leandroblandi&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=leandroblandi&theme=material-palenight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroblandi&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leandroblandi&theme=material-palenight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leandroblandi&theme=vue)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=leandroblandi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
