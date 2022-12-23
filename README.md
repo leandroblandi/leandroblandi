@@ -1,5 +1,5 @@
 # 💫 About Me
-<strong>Software Development Student</strong>. Passionate about new technologies and programming.<br>I am a self-taught Web Programmer eager to learn and grow professionally.<br>Looking for my first job, open to any part time job opportunity
+<strong>Software Development Student</strong> at Universidad Nacional de Lanús (UNLa). Passionate about new technologies and programming.<br>I am a self-taught Web Programmer eager to learn and grow professionally.<br>Looking for my first job, open to any part time job opportunity
 
 
 ## 🌐 Socials
