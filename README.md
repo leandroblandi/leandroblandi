@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software development student. Passionate about new technologies and programming.<br>I am a self-taught Web Programmer eager to learn and grow professionally.<br>Looking for my first job, open to any part time job opportunity
+<strong>Software Development Student</strong>. Passionate about new technologies and programming.<br>I am a self-taught Web Programmer eager to learn and grow professionally.<br>Looking for my first job, open to any part time job opportunity
 
 
 ## 🌐 Socials:
@@ -21,4 +21,3 @@ Software development student. Passionate about new technologies and programming.
 ---
 [![](https://visitcount.itsvg.in/api?id=leandroblandi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
