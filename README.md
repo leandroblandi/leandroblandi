@@ -1,5 +1,5 @@
 # 💫 About Me
-<strong>Software Development Student</strong> at Universidad Nacional de Lanús (UNLa). Passionate about new technologies and programming.<br><strong>I'm Backend Developer</strong>, that wants to learn and grow professionally to offer proffesional products.<br>Looking for my first job, open to any part time job opportunity.
+<strong>Software Development Student</strong> at Universidad Nacional de Lanús (UNLa). Passionate about new technologies and programming.<br><strong>I'm Backend Developer</strong>, that wants to learn and grow professionally to offer proffesional products.<br>Looking for a job opportunity as a Backend Developer.
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/leandroblandi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandroblandi/) [![My Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.leandroblandi.netlify.app/)
