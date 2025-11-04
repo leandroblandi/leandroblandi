@@ -5,7 +5,7 @@ I specialize in the **Java & Spring ecosystem**, building **scalable** and **res
 
 - 💻 **Backend Developer** at **Certant S.A.**
 - 🎓 Studying **Systems Engineering** at **UNLa**
-- ☁️ Hands-on experience with **AWS** (S3, SQS, DynamoDB, Cognito, RDS) using **LocalStack** & **Docker** for local development and testing
+- ☁️ Hands-on experience with **AWS** (S3, SQS, DynamoDB, Cognito, RDS, Secrets Manager, etc.) using **LocalStack** & **Docker** for local development and testing
 - 🧠 Always learning about **cloud-native architectures** and **software design patterns**
 
 
